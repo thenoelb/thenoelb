@@ -1,6 +1,6 @@
-## TheNoelB's Github Profile Page
+## TheNoelB's Github Profile Page ✌
 
-Current status: Figuring out what to do with this page...may update later
+**Current status**: Figuring out what to do with this page...may update later
 
 <!--
 **thenoelb/thenoelb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
